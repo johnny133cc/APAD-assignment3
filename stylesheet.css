@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    background-color: orange;
+    margin: 0%;
+    padding: 10px;
+}
+
+.link_color:hover {
+    color:rgb(186, 102, 0); 
+}
+
+.content {
+    margin:20px; 
+    border:1px solid black; 
+}
+
+.image{
+    max-width: 100%;
+    height: auto;
+}
+
+#highlight {
+    font-weight: bold; 
+    text-align: center; 
+    font-style: italic;
+}

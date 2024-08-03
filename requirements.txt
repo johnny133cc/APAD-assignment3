@@ -1,0 +1,13 @@
+Requirement Points
+
+[check] Use a CSS selector to apply style(s) to at least one HTML tag. 
+[check] Create at least one class, apply it to at least two elements, and style it. 
+[check] Create at least one id, apply it to an element, and style it. 
+[check] Use <div> to create at least two sections of content on the page. 
+[check] Use <a> to link to another website. 
+[check] Use a CSS selector to change the color of <a> when you hover the cursor over it. 
+[check] Change at least two box model properties of any tag, class, or id. 
+[check] Include an image (something safe for work). 
+[check] Correctly use a <meta> “description” tag to describe your site to search engines. 
+Deploy the page to yourgithubusername.github.io using GitHub Pages. 
+
